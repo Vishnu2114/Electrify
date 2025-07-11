@@ -1,0 +1,2 @@
+# Electrify
+Online Shopping Platform
